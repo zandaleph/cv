@@ -2,7 +2,7 @@ Zack Spencer
 ============
 
 --------------------------
-email: zandaleph@gmail.com
+email: zandaleph@gmail.com  
 phone: +44 7472757304
 
 --------------------------
