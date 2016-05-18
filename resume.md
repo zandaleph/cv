@@ -33,6 +33,6 @@ B.S. Computer Science, B.S. Mathematics
 Skills
 ------
 
-Front end: AngularJS, jQuery, Rails, HTML5, CSS3, Twitter Bootstrap
-Middle Tier: Java, Spring, API modeling and evolution, Docker
+Front end: AngularJS, jQuery, Rails, HTML5, CSS3, Twitter Bootstrap  
+Middle Tier: Java, Spring, API modeling and evolution, Docker  
 Back End: SQL, NoSQL, DynamoDB, Apache ZooKeeper
