@@ -27,7 +27,7 @@ Experience
 
 Education
 ---------
-2002 - 2006 University of Washington, Seattle
+2002 - 2006 University of Washington, Seattle  
 B.S. Computer Science, B.S. Mathematics
 
 Skills
