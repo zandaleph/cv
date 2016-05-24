@@ -12,7 +12,7 @@ phone: +44 7472757304
 Experience
 ----------
 
-2009 - 2016 Amazon, Software Development Engineer
+#### Amazon, Software Development Engineer, 2009 - 2016
 
 * Developed a company-wide service health dashboard which automatically gathers service topology and health metrics for over 2,000 services.
 * Created a company-wide repository of system changes used during outages to determine root cause, collecting information about over 80,000 changes per day.
@@ -24,7 +24,7 @@ Experience
 * Travelled to London and Hyderabad to train others in giving the "Builder Tools 101" course, accelerating the growth of developers internationally.
 * Identified the need for and wrote automation for the setup of new developer workstations, saving 7 years of developer time after just six months.
 
-2006 - 2009 Newfield Wireless, Software Development Engineer
+#### Newfield Wireless, Software Development Engineer, 2006 - 2009
 
 * Developed a managed appliance that ingested cellular switch logs and output maps of coverage and demand.
 * Provided incident response and customer support escalation for our appliance.
