@@ -40,7 +40,7 @@ Skills
 
 Front end: AngularJS, jQuery, Ruby, Rails, HTML5, CSS3, Twitter Bootstrap  
 Middle Tier: Java, Spring, API modeling and evolution, C  
-Back End: SQL, NoSQL, DynamoDB, Apache ZooKeeper, Solr Cloud
+Back End: SQL, NoSQL, DynamoDB, Apache ZooKeeper, Solr Cloud  
 Infrastructure: Continuous deployment, Docker, load balancing, Python  
 Testing: JUnit, RSpec, Jasmine, integration testing
 
