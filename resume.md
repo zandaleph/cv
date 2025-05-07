@@ -56,12 +56,17 @@ University of Washington, Seattle, 2002 - 2006
 Skills
 ------
 
-Front end: React, Next.js, Tailwind CSS, jQuery, HTML
-Back end: API modeling and evolution, C++, Kotlin, Java, Python, Quarkus, Spring Boot, Django
-Persistence: Data modeling for both SQL and NoSQL, DynamoDB, Apache ZooKeeper
-Infrastructure: Kubernetes (K8S), Docker, Continuous deployment, Docker, Load Balancing
-Testing: JUnit, Jest, TDD and BDD philosophy, Integration and Load testing
-Monitoring: Prometheus, OpenTelemetry, Alert Automation
+**Front end**: React, Next.js, Tailwind CSS, jQuery, HTML
+
+**Back end**: API modeling and evolution, C++, Kotlin, Java, Python, Quarkus, Spring Boot, Django
+
+**Persistence**: Data modeling for both SQL and NoSQL, DynamoDB, Apache ZooKeeper
+
+**Infrastructure**: Kubernetes (K8S), Docker, Continuous deployment, Docker, Load Balancing
+
+**Testing**: JUnit, Jest, TDD and BDD philosophy, Integration and Load testing
+
+**Monitoring**: Prometheus, OpenTelemetry, Alert Automation
 
 ------
 References available upon request
