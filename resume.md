@@ -1,6 +1,6 @@
 # Zack Spellman
 
-Seasoned generalist engineer with a passion for solving thorny issues of domain modeling, service resilience, and low latency APIs, all prioritized by what will delight users and grow future potential.
+Experienced generalist engineer with a passion for solving thorny issues of domain modeling, service resilience, and low latency APIs, all prioritized by what will delight users and grow future potential.
 
 --------------------------
 email: zandaleph@gmail.com  
