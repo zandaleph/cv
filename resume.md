@@ -14,9 +14,9 @@ phone: available upon request
 
 #### Instagram Notifications
 
-* Added flexible monitoring to measure and pinpoint system latency and failures. In one half, this reduced MTTD from 24 hours to 90 minutes and MTTM from 3 days to 6 hours.
+* Added flexible monitoring to measure and pinpoint system latency and failures. In one half, this reduced median time to detect from 24 hours to 90 minutes.
 * Introduced a new component-based system design which empowered faster, safer changes. Using this, moved filtering components earlier, creating a 20% capacity win for our services in six months.
-* Partnered with our data science and ML teams to create a new foundational product experience dataset. This enabled reductions in erroneous badging by 18%, and improved notification targeting.
+* Partnered with our data science and ML teams to create a new foundational notifications experience dataset. This enabled reductions in erroneous notifications by 18% and improved notification targeting.
 
 #### Signals Gateway
 
@@ -27,9 +27,9 @@ phone: available upon request
 
 #### Facebook Marketplace
 
-* Delivered a faster first page experience by reducing the candidate set in early stage ranking and only selecting the top 20 items initially rather than waiting for a full ranking.
-* Improved user experience by developing a PID-style controller for using more candidates when we predicted we had more time to work with.
-* Built a native first page experience to replace our react native one due to cold start latency issues.  This seamlessly swapped to RN once the interpreter was ready.
+* Delivered a faster first page experience (50ms for 75% of users) by reducing the candidate set in early stage ranking and streaming the top 20 items from full ranking.
+* Preserved result quality by developing a dynamic controller which considered more candidates when time and capacity were available.
+* Built a native first page experience to replace our react native one due to cold start latency issues.  This seamlessly swapped to RN once the interpreter was ready, and saved 100ms on average.
 
 #### Shard Manager
 
